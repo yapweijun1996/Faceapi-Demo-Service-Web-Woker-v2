@@ -75,3 +75,11 @@ The application uses `face-api.js` for all face detection and recognition tasks.
 4.  **UI Updates:** The main page receives the results from the worker and updates the UI to draw bounding boxes, landmarks, and display other information.
 
 This architecture ensures that the UI remains responsive even when the face detection is running, which is crucial for a good user experience.
+
+## Demo
+
+https://yapweijun1996.github.io/Faceapi-Demo-Service-Web-Woker-v2/
+
+## Preview
+
+<img width="754" height="625" alt="Screenshot 2025-07-17 at 9 55 17 PM" src="https://github.com/user-attachments/assets/ea1ccc2d-5d53-4cea-bd8b-ffaa70eafb09" />
